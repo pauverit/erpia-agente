@@ -2,10 +2,8 @@
 
 > ERP + IA + Agente para autónomos y micropymes en España.
 > Verifactu legal RD 1007/2023. Gratis.
-
-**Web:** https://erpiagent.es
 **App:** https://erpia.es
-**Instagram:** [@erpia_agent](https://www.instagram.com/erpia_agent)
+**Instagram:** [@erpia_agent](https://www.instagram.com/erpia_es)
 
 ---
 
